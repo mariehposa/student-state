@@ -4,6 +4,10 @@ export const data = [
     No_of_students: 50,
   },
   {
+    state: "Lagos",
+    No_of_students: 45,
+  },
+  {
     state: "Oyo",
     No_of_students: 30,
   },
@@ -26,6 +30,10 @@ export const data = [
   {
     state: "Delta",
     No_of_students: 20,
+  },
+  {
+    state: "Delta",
+    No_of_students: 40,
   },
   {
     state: "Imo",
